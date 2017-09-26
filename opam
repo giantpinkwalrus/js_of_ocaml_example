@@ -1,0 +1,5 @@
+opam-version: "1.2" name: "bs-examplerino" version: "~unknown" 
+maintainer: "giantpinkwalrus <sampolammas@gmail.com>" authors: 
+"giantpinkwalrus <sampolammas@gmail.com>" 
+license: "MIT"
+depends: "pxp"

@@ -1,0 +1,12 @@
+{
+  "name": "bs-examplerino",
+  "version": "1.0.0",
+  "description": "Example of bucklescript",
+  "author": "giantpinkwalrus",
+  "main": "index.js",
+  "scripts": {
+    "build": "bsb",
+    "watch": "bsb -w"
+  },
+  "license": "MIT"
+}
